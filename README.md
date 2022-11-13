@@ -48,5 +48,6 @@ python main.py
 ```
 
 ##### *Могут потребоваться дополнительные компоненты для ОС:*
+1. Установка tensorflow: https://www.tensorflow.org/install
 
-1. Если ошибка "Could not locate zlibwapi.dll" - Поможет статья: [stackoverflow](https://stackoverflow.com/questions/72356588/could-not-locate-zlibwapi-dll-please-make-sure-it-is-in-your-library-path)
+2. Если ошибка "Could not locate zlibwapi.dll" - Поможет статья: [stackoverflow](https://stackoverflow.com/questions/72356588/could-not-locate-zlibwapi-dll-please-make-sure-it-is-in-your-library-path)
