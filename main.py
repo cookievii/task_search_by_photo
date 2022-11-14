@@ -30,4 +30,4 @@ if __name__ == "__main__":
     model = MachineLearning().get_trained_model(path=path_exists(path_to_dataset))
 
     path_to_testing_images = "example"
-    Table(model).get_csv_with_sorted_image(path=path_exists(path_to_testing_images))
+    Table(model).get_csv_with_sorted_image(path=path_exists(path_to_dataset))  # Можно передать path_to_testing_images
